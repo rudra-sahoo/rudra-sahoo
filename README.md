@@ -1,3 +1,6 @@
+<h1 align="center">Hi Rudra Sahoo</h1>
+<h3 align="center">A Passionate Developer from India</h3>
+<img align="right" alt "Coding" width="400" src="https://cdn.discordapp.com/attachments/899219045822394378/1281281645948829806/giphy_Technology_Code_GIF_by_The_Coding_Space_RD-ezgif.com-webp-to-gif-converter.gif?ex=66db2605&is=66d9d485&hm=9020ae8f8ec5916896506e77a9619c56e33248dd8750148ebff4c35f7258aeea&">
 # 💫 About Me:
 🤝 I'm looking to collaborate on:<br>Innovative projects in AI, ML, mobile app development, or backend systems using technologies like Flutter, Node.js, and Kafka.<br><br>🛠️ I'm looking for help with:<br>Expanding my knowledge in AI and advanced machine learning techniques.<br><br>📚 I'm currently learning:<br>Machine learning with Python (OpenCV, Numpy, Keras, TensorFlow, Scikit-learn, SciPy, Pandas) and AI development.<br><br>💬 Ask me about:<br>Building scalable backend systems, cross-platform app development, or integrating Kafka with microservices.<br><br>⚡ Fun fact:<br>I once wrote an entire Node.js backend while hiking in the hills—productivity knows no bounds!
 
@@ -24,4 +27,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Rudra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
